@@ -1,0 +1,25 @@
+menu "test" 640 480 NONE 1
+
+
+
+
+
+
+
+
+
+
+
+
+resource
+Button
+{
+title "g\""
+name "Default"
+rect 182 97 167 130
+fgcolor 0.00 0.00 0.00 1.00
+bgcolor 0.50 0.50 0.50 1.00
+borderstyle "RAISED"
+stuffcommand "\"exec elgan.cfg\""
+}
+end.

@@ -1,11 +1,11 @@
-# Admin Menu for Admin-Pro 1.00
+# Admin Menu for Admin-Pro 1.22
 
 This is a admin rcon menu for mod admin-pro. It will work for SH, BT 
 and AA. It is a client mod and does not go in your server. Inside the zip file
 you will find the following:
 
 admin_menu ( folder)
-Ådmin_menu.pk3 ( pack file)
+Ã…dmin_menu.pk3 ( pack file)
 
 
 Both the folder and the file go in your main dir. THis is either main for 
